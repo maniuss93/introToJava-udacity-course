@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9235f0f5-85d9-41b8-9809-6c12b6ad65b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extra1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extra2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extra3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extra4.java" afterDir="false" />
-    </list>
+    <list default="true" id="9235f0f5-85d9-41b8-9809-6c12b6ad65b8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/excercise2.java" root0="SKIP_INSPECTION" />
@@ -59,11 +39,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/maniuss/Desktop/introToJava-udacity-course/variablesAndDataTypes/excercise/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,11 +57,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671472264356</updated>
-      <workItem from="1671472265521" duration="7588000" />
+      <workItem from="1671472265521" duration="8193000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
 </project>
