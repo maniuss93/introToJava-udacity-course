@@ -1,6 +1,7 @@
 public class excercise4 {
     public static void main(String [] args) {
-    weatherInterpreter(Integer.valueOf(args[0]));
+    int degreC = 32;
+    weatherInterpreter(degreC);
     }
     public static void weatherInterpreter(int temperature) {
         if (temperature > 30) {
