@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74eb0707-ac85-412f-b078-9be313635d89" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/excercise2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/excercise3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/excercise4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/excercise5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/excercise6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/excercise7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/excercise8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/extra1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/extra2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/extra3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/extra4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/extra5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/extra6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/excercise/extra7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/excercise8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extra1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extra2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extra3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extra4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extra5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extra6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extra7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/excercise/excercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/excercise/excercise1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/excercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/excercise1.java" afterDir="false" />
-    </list>
+    <list default="true" id="74eb0707-ac85-412f-b078-9be313635d89" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671545260278</updated>
-      <workItem from="1671545261422" duration="10737000" />
+      <workItem from="1671545261422" duration="11010000" />
     </task>
     <servers />
   </component>
