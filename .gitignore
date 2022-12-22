@@ -1,7 +1,6 @@
 ## Github ##
-.idea
-out
-variablesAndDataTypes/excercise/.idea
+*.idea
+.idea/
 *iml
 ### IntelliJ IDEA ###
 out/
