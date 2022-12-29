@@ -1,6 +1,6 @@
 public class excercise4 {
     public static void main(String[] args) {
-       int totalBlocks = countBlocks(1);
+        int totalBlocks = countBlocks(1);
         System.out.println(totalBlocks);
     }
     public static int countBlocks(int levels) {
